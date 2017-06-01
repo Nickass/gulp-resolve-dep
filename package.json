@@ -1,0 +1,11 @@
+{
+  "name": "gulp-resolve-dep",
+  "version": "1.0.0",
+  "description": "Resolve dependencies in block comments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nickass",
+  "license": "ISC"
+}
